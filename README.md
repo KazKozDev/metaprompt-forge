@@ -75,9 +75,6 @@ Becomes a structured prompt that:
 - Requires current research references
 - Separates established facts from theoretical concepts
 
-## 🔧 Default Settings
-
-
 ## 📦 Project Structure
 
 ```
